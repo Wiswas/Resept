@@ -6,7 +6,7 @@ Navn (studentnummer):
 Klasse: HINGDATA14HA
 */
 
-public class Person
+public class Person//TESTTTT!!!!
 {
   private String navn;
   private String fødselsdato;
